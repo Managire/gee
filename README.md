@@ -1,8 +1,6 @@
 # gee
 Repo for my gee scripts
 
-This is test
-
 Making a change
 
 ## Lectures
